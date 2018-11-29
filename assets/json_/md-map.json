@@ -51,6 +51,12 @@
       "md_url": "https://raw.githubusercontent.com/littleostar-blog/littleostar-blog/master/angular-md-files/angular-tool.md"
     }
   ],
+  "deploy-md-files": [
+    {
+      "md_title": "_deploy_angular_app_on_github_pages",
+      "md_url": "https://raw.githubusercontent.com/littleostar-blog/littleostar-blog/master/deploy-md-files/_deploy_angular_app_on_github_pages.md"
+    }
+  ],
   "record-md-files": [
     {
       "md_title": "record-movie",
